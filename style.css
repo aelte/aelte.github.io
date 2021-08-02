@@ -163,7 +163,11 @@ label{
         width: 100%;
 
     }
-
+    
+    section.content {
+        margin-bottom : 75px;
+    }
+    
     section.content .post{
         width: 100%;
         font-size: 1em;
